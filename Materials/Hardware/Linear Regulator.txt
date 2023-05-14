@@ -1,6 +1,0 @@
-Linear regulator basics
-https://www.eetimes.com/signal-chain-basics-part-19-exploring-and-understanding-linear-voltage-regulators/
-RC Low-pass Filter Design for PWM
-http://sim.okawa-denshi.jp/en/PWMtool.php
-Low-Pass Filter a PWM Signal into an Analog Voltage
-https://www.allaboutcircuits.com/technical-articles/low-pass-filter-a-pwm-signal-into-an-analog-voltage/

@@ -1,2 +1,0 @@
-lighthouse-booster
-https://github.com/jonnew/ONIX/tree/09f3f12ecb4655f6eec016220d5cedc871961fb5/deprecated/lighthouse-booster
