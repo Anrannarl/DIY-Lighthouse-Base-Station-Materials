@@ -26,3 +26,4 @@ esptracker https://github.com/cnlohr/esptracker
 esp8266lighthouse https://github.com/cnlohr/esp8266lighthouse  
 lighthouse_sensor https://github.com/pdaderko/lighthouse_sensor  
 rigid_transform_3D https://github.com/nghiaho12/rigid_transform_3D  
+Lighthouse-Tracker-RP2040 https://github.com/Anrannarl/Lighthouse-Tracker-RP2040
