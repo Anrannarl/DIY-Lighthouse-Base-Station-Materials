@@ -1,0 +1,4 @@
+LASER DIODE TUTORIAL
+https://www.thorlabs.com/NewGroupPage9_PF.cfm?ObjectGroup_ID=1832
+Understanding the basics of laser diode drivers
+https://www.koheron.com/blog/2018/10/16/understanding-the-basics-of-laser-diode-drivers

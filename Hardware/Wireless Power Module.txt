@@ -1,0 +1,4 @@
+How to make Wireless Power Transmitter With printed Coil on the PCB
+https://www.youtube.com/watch?v=3QEGdm6vfUw
+Coil Designer
+https://webench.ti.com/wb5/LDC/#/spirals
