@@ -1,6 +1,9 @@
 # DIY-Lighthouse-Base-Station-Materials
 A collection of Lighthouse-related stuff.
 
+How I made a SteamVR Lighthouse Base Station  
+https://www.youtube.com/watch?v=2vALTxu0yUc  
+
 Alan Yates on the Impossible Task of Making Valve's VR Work https://www.youtube.com/watch?v=75ZytcYANTA  
 SteamVR Hardware https://www.youtube.com/watch?v=BhzUn0gmkEU  
 Synapse SXSW Workshop Presentation https://www.synapse.com/the-edge/synapse-sxsw-workshop-presentation-0/  
